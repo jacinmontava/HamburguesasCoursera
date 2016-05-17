@@ -2,7 +2,6 @@
 //  AppDelegate.swift
 //  Hamburguesas
 //
-//  Created by everis on 17/5/16.
 //
 //
 
